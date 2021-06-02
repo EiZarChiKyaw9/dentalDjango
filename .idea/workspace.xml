@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37cdd7af-9f48-4970-8f58-b2f5d8a0e399" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websites/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/websites/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dental/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dental/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
